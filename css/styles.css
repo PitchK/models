@@ -5,7 +5,8 @@ body{
     margin-bottom: 0;
     z-index: 0;
     transition: 0.5s;
-    background-color: white;
+    background-image: url("https://pitchk.github.io/models/bg.svg");
+    background-size: 5px 5px;
     
 }
 
@@ -52,6 +53,7 @@ body{
     display: flex;
     border-bottom: 3px solid grey;
     margin-bottom: 0;
+    background-color: white;
 }
 
 #innerNavigation{
