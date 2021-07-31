@@ -27,10 +27,10 @@ var unloadedPhoto = 'https://3358nc4e1je93h11tu493nryr3i-wpengine.netdna-ssl.com
 document.getElementById('menu').addEventListener('click', show);
 
 var allModels = [{modelName: 'AirPoint \'21', modelURL: 'point.jpg', difficulty: 4.5, tags: ['Future vehicle', 'Recreational vehicle', 'Air'], description: 'This model\'s distinguishable characteristic is that sharp point. Fold with black origami for the best contrast!', webLink: '/air-point-21', time: '12-15 min'}, 
-{modelName: 'Future Vehicle 9', modelURL: 'fv9.jpg', difficulty: 5, tags: ['Future vehicle', 'Recreational vehicle', 'Hover'], description: 'A twist on the LandHover\'21. Now featuring two large back jets! Looks even faster!', webLink: '/not-created-yet', time: 'TBD'}, 
+{modelName: 'Futuristic Boat', modelURL: 'fv9.jpg', difficulty: 5.5, tags: ['Future vehicle', 'Recreational vehicle', 'Hover'], description: 'A twist on the LandHover\'21. Now featuring two large back jets! Looks even faster!', webLink: '/futuristic-boat', time: '13-19 min'}, 
 {modelName: 'LandHover \'21', modelURL: 'speedr.jpg', difficulty: 7, tags: ['Future vehicle', 'Recreational vehicle', 'Hover'], description: 'This model was sort of inspired by the landspeeder in Star Wars, as you can see. Doesn\'t it look fast?', webLink: '/land-hover-21', time: '12-18 min'}, 
 {modelName: 'A simple plant (ver. 1)', modelURL: 'plant1.jpg', difficulty: 3, tags: ['Flower', 'Living'], description: 'null', webLink: '/plant-1', time: '7-12 min'}, 
-{modelName: 'A simple plant (ver. 2)', modelURL: unloadedPhoto, difficulty: 6, tags: ['Flower', 'Living'], description: 'null', webLink: '/plant-2', time: '12-20 min'}, 
+{modelName: 'A simple plant (ver. 2)', modelURL: 'plant2real.jpg', difficulty: 6, tags: ['Flower', 'Living'], description: 'null', webLink: '/plant-2', time: '12-20 min'}, 
 {modelName: 'Tall plant', modelURL: 'plant2.jpg', difficulty: 7, tags: ['Flower', 'Living'], description: 'null', webLink: '/tall-plant', time: '15-25 min'}, 
 {modelName: 'Sea shrimp', modelURL: 'shrimp.jpg', difficulty: 5.5, tags: ['Living', 'Attacker'], description: 'A small shrimp, complete with two front claws and its distinguishable flexible tail.', webLink: '/sea-shrimp', time: '10-14 min'}, 
 {modelName: 'Attacker fish', modelURL: 'attackerfish.jpg', difficulty: 6.5, tags: ['Living', 'Attacker'], description: 'null', webLink: '/attacker-fish', time: '12-20 min'}, 
